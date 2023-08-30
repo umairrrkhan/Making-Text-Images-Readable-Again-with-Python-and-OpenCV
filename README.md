@@ -51,17 +51,17 @@ To use this project:
 
 ## Image 
 
-1.  [1 image](a.jpg)
-2.  [2 image](s.jpg)
-3.  [3 image](d.jpg)
-4.  [4 image](f.jpg)
+1.  ![1 image](a.jpg)
+2.  ![2 image](s.jpg)
+3.  ![3 image](d.jpg)
+4.  ![4 image](f.jpg)
 
 ## Result
 
-1. [result 1 image](First.png)
-2. [result 2 image](second.png)
-3. [result 3 image](third.png)
-4. [result 4 image](fourth.png)
+1. ![result 1 image](First.png)
+2. ![result 2 image](second.png)
+3. ![result 3 image](third.png)
+4. ![result 4 image](fourth.png)
 
 ## Contact
 
