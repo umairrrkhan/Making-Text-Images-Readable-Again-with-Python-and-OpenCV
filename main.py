@@ -1,7 +1,7 @@
 import cv2 as cv
 
 # Load the image
-img = cv.imread('fourth.jpg')  # Make sure to provide the correct image file extension
+img = cv.imread('a.jpg')  # Make sure to provide the correct image file extension
 
 # Convert the image to grayscale
 img_gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
